@@ -14,13 +14,13 @@ h2 {
 }
 .column1 {
   width: 50%;
-  float: left;
+  float: right;
   font-weight: lighter;
   margin-right: 10px;
 }
 .column2 {
   width: 50%;
-  float: right;
+  float: left;
   font-weight: lighter;
   margin-left: 10px;
 }
