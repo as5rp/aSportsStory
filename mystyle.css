@@ -16,15 +16,13 @@ h2 {
   width: 50%;
   float: right;
   font-weight: lighter;
-  margin-right: 10px;
 }
 .column2 {
   width: 50%;
   float: left;
   font-weight: lighter;
-  margin-left: 10px;
 }
-.iframe {
+.videos {
   text-align: center;   
 }
 .row:after{
