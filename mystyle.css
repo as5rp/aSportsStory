@@ -12,13 +12,21 @@ h1 {
 h2 {
   text-align: center;
 }
+.lefty {
+  width: 70%;
+  float: left;
+}
+.righty {
+  width: 70%;
+  float: right;
+}
 .column1 {
   width: 40%;
   float: left;
   font-weight: lighter;
   padding: 10px;
   text-align: center;
-
+  margin-left: 20px;
 }
 .column2 {
   width: 40%;
