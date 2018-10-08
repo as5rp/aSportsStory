@@ -12,12 +12,16 @@ h1 {
 h2 {
   text-align: center;
 }
-h3 {
-  display: block;
-  width: 200px;
+.column {
+  width: 50%;
   float: left;
+  font-weight: lighter;
 }
 iframe {
-  text-align: center;
-    
+  text-align: center;   
+}
+.row:after{
+  content: "";
+  display: table;
+  clear: both;
 }
