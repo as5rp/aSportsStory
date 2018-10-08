@@ -2,6 +2,7 @@
 html {
   word-wrap: normal;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
+  margin: 1em;
 }
 h1 {
   text-align: center;
