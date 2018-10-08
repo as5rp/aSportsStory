@@ -26,7 +26,6 @@ h2 {
   font-weight: lighter;
   padding: 10px;
   text-align: center;
-  margin-left: 20px;
 }
 .column2 {
   width: 40%;
@@ -40,3 +39,14 @@ h2 {
   display: table;
   clear: both;
 }
+.lefty:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+.righty:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
