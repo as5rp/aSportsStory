@@ -22,7 +22,7 @@ h2 {
   float: left;
   font-weight: lighter;
 }
-.vid {
+iframe {
   text-align: center;   
 }
 .row:after{
