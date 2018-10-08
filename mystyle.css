@@ -12,9 +12,14 @@ h1 {
 h2 {
   text-align: center;
 }
-.column {
+.column1 {
   width: 50%;
   float: left;
+  font-weight: lighter;
+}
+.column2 {
+  width: 50%;
+  float: right;
   font-weight: lighter;
 }
 iframe {
