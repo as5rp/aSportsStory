@@ -13,18 +13,20 @@ h2 {
   text-align: center;
 }
 .column1 {
-  width: 50%;
-  float: right;
+  width: 48%;
+  float: left;
   font-weight: lighter;
 }
 .column2 {
-  width: 50%;
+  width: 48%;
   float: left;
   font-weight: lighter;
 }
 .videos {
+  position: relative;
   text-align: center;   
 }
+
 .row:after{
   content: "";
   display: table;
