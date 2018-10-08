@@ -22,10 +22,10 @@ h2 {
   float: left;
   font-weight: lighter;
 }
-.videos {
+/*.videos {
   position: relative;
   text-align: center;   
-}
+}*/
 
 .row:after{
   content: "";
