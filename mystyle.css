@@ -16,11 +16,14 @@ h2 {
   width: 48%;
   float: left;
   font-weight: lighter;
+  padding: 10px;
+
 }
 .column2 {
   width: 48%;
   float: right;
   font-weight: lighter;
+  padding: 10px;
 }
 
 .row:after{
