@@ -3,3 +3,7 @@ html {
   word-wrap: normal;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
+title {
+  text-align: center;
+  font-size: 70px;
+}
