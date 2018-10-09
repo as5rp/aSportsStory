@@ -49,4 +49,9 @@ h2 {
   display: table;
   clear: both;
 }
+.responsive{
+  width: 50%;
+  height: auto;
+  max-width: 600px;
+}
 
