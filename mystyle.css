@@ -25,13 +25,6 @@ h2 {
   float: left;
   font-weight: lighter;
   padding: 10px;
-  text-align: center;
-}
-.column2 {
-  width: 40%;
-  float: right;
-  font-weight: lighter;
-  padding: 10px;
 }
 
 .row:after{
