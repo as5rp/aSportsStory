@@ -14,12 +14,17 @@ h2 {
   text-align: center;
 }
 .lefty {
-  width: 70%;
+  width: 65%;
   float: left;
+  vertical-align: top;
+  display: inline-block;
 }
 .righty {
-  width: 70%;
+  width: 65%;
   float: right;
+  vertical-align: top;
+    display: inline-block;
+
 }
 .column1 {
   width: 40%;
@@ -56,3 +61,4 @@ a.button {
     text-decoration: none;
     color: initial;
 }
+
