@@ -3,6 +3,7 @@ html {
   word-wrap: normal;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   margin: 1em;
+  max-width: 80%;
 }
 h1 {
   text-align: center;
@@ -32,12 +33,12 @@ h2 {
   display: table;
   clear: both;
 }
-.lefty:after{
+.leftyA:after{
   content: "";
   display: table;
   clear: both;
 }
-.righty:after{
+.rightyA:after{
   content: "";
   display: table;
   clear: both;
